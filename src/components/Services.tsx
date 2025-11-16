@@ -29,7 +29,7 @@ const services = [
   },
   {
     icon: ClipboardList,
-    title: "Evaluaciones Neuropsicológicas",
+    title: "Evaluaciones Psicológicas",
     description: "Evaluaciones especializadas para identificar fortalezas y áreas de mejora cognitiva, proporcionando una base sólida para intervenciones personalizadas."
   }
 ];
